@@ -1,3 +1,20 @@
 title: Dongho Kim | Software Engineer
 description: Projects, Code, and Career Journey
 theme: minima
+
+title: Dongho's Blog
+description: Tech, Language, and My Project Journey
+theme: minima
+
+
+nav:
+ - title: Home
+    url: /
+  - title: English
+    url: /english
+  - title: IT Support
+    url: /it-support
+  - title: IT Projects
+    url: /it-projects
+  - title: Autonomous
+    url: /autonomous-driving
