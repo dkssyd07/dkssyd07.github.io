@@ -37,5 +37,5 @@ You can view the live blog here:
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or leave feedback on the blog!  
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/dongho-kim-64a0481b8) or leave feedback on the blog!  
 블로그나 링크드인에서 자유롭게 연락 주세요.
