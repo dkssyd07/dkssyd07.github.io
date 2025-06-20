@@ -61,16 +61,10 @@ This blog is where I document and share what I’ve learned through:
 
 ## 📂 Categories | 글 카테고리별 보기
 
-### 🛠 IT Support & Troubleshooting
-
-### 🧪 Python & Automation Projects
-
-### 🚘 AI-Based Autonomous Vehicle
-
-### ✏️ English Learning Tips
-
-## 🚀 Let’s Connect
-
+- 🛠 [IT Support](./categories/it-support.md)
+- 🧪 [Python Projects](./categories/projects.md)
+- 🚘 [AI Vehicle](./categories/ai-vehicle.md)
+- ✏️ [English Study](./categories/english-study.md)
 
 
 ---
