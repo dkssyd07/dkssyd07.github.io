@@ -1,15 +1,26 @@
-title: Dongho Kim | Software Engineer
-description: Projects, Code, and Career Journey
-theme: minima
+title: "Dongho Kim | Software Engineer"
+description: "Projects, Code, and Career Journey"
+remote_theme: mmistakes/minimal-mistakes
 
-nav:
-  - title: Home
-    url: /
-  - title: English
-    url: /english
-  - title: IT Support
-    url: /it-support
-  - title: IT Projects
-    url: /it-projects
-  - title: Autonomous
-    url: /autonomous-driving
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+locale: "ko-KR"
+
+paginate: 5
+paginate_path: /page:num/
+
+author:
+  name: "Dongho Kim"
+  avatar: "/assets/images/avatar.png"
+  bio: "Senior CS Student @ U of Regina | IT, Cybersecurity, Automation"
+  location: "Canada / South Korea"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dkssyd07"
