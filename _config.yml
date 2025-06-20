@@ -1,26 +1,19 @@
-title: "Dongho Kim | Software Engineer"
-description: "Projects, Code, and Career Journey"
-remote_theme: mmistakes/minimal-mistakes
+title: "Dongho Kim"
+tagline: "Cybersecurity, Automation, and Smart Projects"
+description: >-
+  Portfolio and blog of Dongho Kim.
+url: "https://dkssyd07.github.io/"
+baseurl: ""  # 공백이면 루트에서 운영
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-include-cache
+theme: jekyll-theme-chirpy
+lang: ko-KR
 
-locale: "ko-KR"
+github:
+  username: your-github-username
 
-paginate: 5
-paginate_path: /page:num/
-
-author:
-  name: "Dongho Kim"
-  avatar: "/assets/images/avatar.png"
-  bio: "Senior CS Student @ U of Regina | IT, Cybersecurity, Automation"
-  location: "Canada / South Korea"
+social:
+  name: Dongho Kim
+  email: your@email.com
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dkssyd07"
+    - https://github.com/dkssyd07
+    - www.linkedin.com/in/dongho-kim-64a0481b8
