@@ -59,7 +59,20 @@ This blog is where I document and share what I’ve learned through:
 
 ---
 
+## 📂 Categories | 글 카테고리별 보기
+
+### 🛠 IT Support & Troubleshooting
+
+### 🧪 Python & Automation Projects
+
+### 🚘 AI-Based Autonomous Vehicle
+
+### ✏️ English Learning Tips
+
 ## 🚀 Let’s Connect
 
+
+
+---
 Feel free to browse through the posts and leave feedback or questions.  
 여러분의 방문을 환영합니다. 피드백이나 질문이 있다면 언제든지 남겨주세요!
